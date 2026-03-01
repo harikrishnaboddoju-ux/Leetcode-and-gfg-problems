@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
