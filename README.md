@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
