@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Dynamic Programming
 |  |
 | ------- |
