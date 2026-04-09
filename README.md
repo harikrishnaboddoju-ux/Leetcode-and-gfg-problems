@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
