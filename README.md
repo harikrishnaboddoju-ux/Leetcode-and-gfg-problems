@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0007-reverse-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
