@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
