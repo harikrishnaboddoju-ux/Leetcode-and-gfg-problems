@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0042-trapping-rain-water) |
 | [0598-range-addition-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0598-range-addition-ii) |
+| [1109-corporate-flight-bookings](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1109-corporate-flight-bookings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1732-find-the-highest-altitude) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1109-corporate-flight-bookings) |
 | [1732-find-the-highest-altitude](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Two Pointers
