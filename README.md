@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0042-trapping-rain-water) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Two Pointers
 |  |
