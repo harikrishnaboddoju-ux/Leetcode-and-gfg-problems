@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0598-range-addition-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0509-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
