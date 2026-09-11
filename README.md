@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/harikrishnaboddoju-ux/Leetcode-and-gfg-problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
